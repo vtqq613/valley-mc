@@ -1,9 +1,10 @@
 # Change baseurl before deploy
-baseurl = "https://valley-mc.ru"
-languageCode = "en-us"
+baseurl = "https://vtqq613.github.io/valley-mc/"
+languageCode = "ru-ru"
 paginate = 5
 title = "Долина простора"
 
+theme = "hugo-theme-stack"
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
 defaultContentLanguage = "ru"
