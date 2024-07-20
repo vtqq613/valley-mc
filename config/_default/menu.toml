@@ -16,6 +16,15 @@ url = "https://gmod-classix.ru/index.php?t=store"
 icon = "cash"
 newtab = true
 
+[[main]]
+identifier = "online-map"
+name = "Онлайн карта"
+weight = 3
+url = "http://survival.valley-mc.ru:8123"
+[main.params]
+icon = "map-2"
+newtab = true
+
 [[social]]
 identifier = "vk"
 name = "Вконтакте"
