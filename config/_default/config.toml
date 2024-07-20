@@ -1,4 +1,4 @@
-# Change baseurl before deploy
+# Change baseurl before deploy 
 baseurl = "https://vtqq613.github.io/valley-mc/"
 languageCode = "ru-ru"
 paginate = 5
