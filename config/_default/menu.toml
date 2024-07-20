@@ -7,18 +7,38 @@
 #icon = "home"
 #newtab = true
 
+[[main]]
+identifier = "donate"
+name = "Донат"
+weight = 2
+url = "https://gmod-classix.ru/index.php?t=store"
+[main.params]
+icon = "cash"
+newtab = true
+
 [[social]]
-identifier = "github"
-name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+identifier = "vk"
+name = "Вконтакте"
+weight = 1
+url = "https://vk.com/valley_mc"
 
 [social.params]
-icon = "brand-github"
+icon = "brand-vk"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "telegram"
+name = "Telegram"
+weight = 2
+url = "https://t.me/valley_mc"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-telegram"
+
+[[social]]
+identifier = "discord"
+name = "Discord"
+weight = 3
+url = "https://discord.gg/2YR9XQfrZJ"
+
+[social.params]
+icon = "brand-discord"
