@@ -51,3 +51,22 @@ url = "https://discord.gg/2YR9XQfrZJ"
 
 [social.params]
 icon = "brand-discord"
+
+[[social]]
+identifier = "flame"
+name = "Мониторинг"
+weight = 4
+url = "https://hotmc.ru/minecraft-server-268428"
+
+[social.params]
+icon = "flame"
+
+
+[[social]]
+identifier = "rating"
+name = "Рейтинг"
+weight = 5
+url = "https://minecraftrating.ru/server/valley/"
+
+[social.params]
+icon = "thumb-up"
