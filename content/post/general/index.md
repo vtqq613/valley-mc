@@ -1,13 +1,13 @@
 ---
 title: Долина простора
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
+description: Добро пожаловать на "Долина простора"
+slug: about
+date: 2020-01-25 00:00:00+0000
 image: valley.jpg
 categories:
     - Информация
 tags:
-    - Example Tag
+    - Проект
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
