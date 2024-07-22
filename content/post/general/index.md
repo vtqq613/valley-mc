@@ -2,7 +2,7 @@
 title: Долина простора
 description: Особенности и концепция нашего проекта
 slug: about
-date: 2020-01-25 00:00:00+0000
+date: 2024-06-28 00:16:00+0000
 image: valley.jpg
 categories:
     - Информация
