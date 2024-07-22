@@ -1,7 +1,7 @@
 ---
 title: Информация
 description: Информация о проекте
-image:
+image: valley.jpg
 
 # Badge style
 style:
