@@ -2,7 +2,7 @@
 title: Как заприватить территорию?
 description: Туториал: Как заприватить территорию **Lands** на сервере
 slug: about
-date: 2025-08-26 18:00:00+0000
+date: 2025-08-26T18:00:00Z
 image: valley.jpg
 categories:
   - Информация
