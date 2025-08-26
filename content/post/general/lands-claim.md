@@ -1,7 +1,7 @@
 ---
-title: Как заприватить территорию?
-description: Туториал: Как заприватить территорию **Lands** на сервере
-slug: about
+title: "Как заприватить территорию?"
+description: "Туториал: Как заприватить территорию Lands на сервере"
+slug: lands-claim
 date: 2025-08-26T18:00:00Z
 image: valley.jpg
 categories:
@@ -9,7 +9,7 @@ categories:
 tags:
   - Проект
   - Приват
-weight: 1 # You can add weight to some posts to override the default sorting (date descending)
+weight: 1
 ---
 
 # 🚀 Туториал: Как заприватить территорию **Lands** на сервере
