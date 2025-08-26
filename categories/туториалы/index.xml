@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Туториалы on</title><link>https://valley-mc.ru/categories/%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/</link><description>Recent content in Туториалы on</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Tue, 26 Aug 2025 00:16:00 +0000</lastBuildDate><atom:link href="https://valley-mc.ru/categories/%D1%82%D1%83%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>Приват территории</title><link>https://valley-mc.ru/p/lands/</link><pubDate>Tue, 26 Aug 2025 00:16:00 +0000</pubDate><guid>https://valley-mc.ru/p/lands/</guid><description>&lt;img src="https://valley-mc.ru/p/lands/fortress.png" alt="Featured image of post Приват территории" />&lt;h1 id="-как-заприватить-территорию">🏰 Как заприватить территорию?
+&lt;/h1>&lt;p>Этот гайд поможет тебе быстро разобраться, как &lt;strong>захватывать территории&lt;/strong>, управлять ими и приглашать друзей 🏡. Всё просто — читай по шагам!&lt;/p>
+&lt;hr>
+&lt;h2 id="-создание-привата">🔰 Создание привата
+&lt;/h2>&lt;p>Чтобы создать свой приват - землю, введи &lt;strong>/lands claim&lt;/strong>.&lt;/p>
+&lt;p>👉 После этого появится твоя территория с твоим ником в качестве имени.&lt;/p>
+&lt;p>Если хочешь своё название — используй &lt;strong>/lands create &amp;lt;название&amp;gt;&lt;/strong>.&lt;/p>
+&lt;hr>
+&lt;h2 id="-увеличение-территории">📦 Увеличение территории
+&lt;/h2>&lt;p>Можно увеличивать территорию маленькиими кусками или большими областями.&lt;/p>
+&lt;ul>
+&lt;li>Для быстрого захвата по чанкам: &lt;strong>/lands claim&lt;/strong>&lt;/li>
+&lt;li>Для выбора области:
+&lt;ol>
+&lt;li>Введи &lt;strong>/lands selection&lt;/strong>&lt;/li>
+&lt;li>Выдели два угла территории (щёлкни)&lt;/li>
+&lt;li>Подтверди захват: &lt;strong>/lands claim&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
+&lt;p>Теперь земля твоя! 🎉&lt;/p>
+&lt;hr>
+&lt;h2 id="-управление-землей">⚙️ Управление землей
+&lt;/h2>&lt;ul>
+&lt;li>Открой меню командой &lt;strong>/lands&lt;/strong>&lt;/li>
+&lt;li>Чтобы увидеть все команды — &lt;strong>/lands help&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>Всё настраивается через удобное меню 📜&lt;/p>
+&lt;hr>
+&lt;h2 id="-несколько-земель">🗾 Несколько земель
+&lt;/h2>&lt;p>Если у тебя несколько земель:&lt;/p>
+&lt;ul>
+&lt;li>Выбери, для какой земли будут выполняться команды: &lt;strong>/lands edit &amp;lt;название_земли&amp;gt;&lt;/strong>&lt;/li>
+&lt;li>В меню GUI переключаться ещё проще — без команд&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-добавление-друзей">👥 Добавление друзей
+&lt;/h2>&lt;p>&lt;strong>Дать доступ другу:&lt;/strong>&lt;br>
+Используй команду &lt;strong>/lands trust &amp;lt;ник&amp;gt; [область]&lt;/strong>&lt;/p>
+&lt;p>Если область не указана, друг получит доступ ко всей земле.&lt;/p>
+&lt;p>Или через меню: /lands → меню игроков → &lt;strong>Trust Player&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Убрать доступ:&lt;/strong>&lt;br>
+Команда &lt;strong>/lands untrust &amp;lt;ник&amp;gt; [область]&lt;/strong>&lt;br>
+Или кнопка &lt;strong>Untrust Player&lt;/strong> в меню&lt;/p>
+&lt;hr>
+&lt;h2 id="-права-и-роли-игроков-как-в-дискорде">🔑 Права и роли игроков (как в дискорде)
+&lt;/h2>&lt;ul>
+&lt;li>Открой меню: &lt;strong>/lands&lt;/strong>&lt;/li>
+&lt;li>Выбери раздел &lt;strong>Roles&lt;/strong>&lt;/li>
+&lt;li>Настрой права для каждой роли (строить, ломать и т.д.)&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-повышение---понижение-игроков">⬆️ Повышение / ⬇️ Понижение игроков
+&lt;/h2>&lt;ul>
+&lt;li>Открой меню: &lt;strong>/lands&lt;/strong>&lt;/li>
+&lt;li>Перейди в меню игроков&lt;/li>
+&lt;li>Нажми на игрока:
+&lt;ul>
+&lt;li>&lt;em>Shift + ЛКМ&lt;/em> — повысить&lt;/li>
+&lt;li>&lt;em>Shift + ПКМ&lt;/em> — понизить&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-итог">🎯 Итог
+&lt;/h2>&lt;p>Теперь ты умеешь:&lt;/p>
+&lt;ul>
+&lt;li>Создавать и называть землю 🏠&lt;/li>
+&lt;li>Захватывать территории 📏&lt;/li>
+&lt;li>Управлять меню и командами ⚡&lt;/li>
+&lt;li>Добавлять и убирать друзей 👥&lt;/li>
+&lt;li>Настраивать роли и повышать игроков 🔑&lt;/li>
+&lt;/ul>
+&lt;p>💡 Если что-то забыл — просто напиши &lt;strong>/lands help&lt;/strong>&lt;/p>
+&lt;p>Удачи в освоении своих земель! 🌍✨&lt;/p></description></item></channel></rss>
