@@ -1,7 +1,10 @@
 # Change baseurl before deploy 
 baseurl = "https://valley-mc.ru/"
 languageCode = "ru-ru"
-paginate = 5
+
+[pagination]
+  pagerSize = 5
+
 title = "Долина простора"
 
 # Theme i18n support
