@@ -2,7 +2,7 @@
 title: Приват территории
 description: Как заприватить территорию?
 slug: lands
-date: 2024-06-28 00:16:00+0000
+date: 2025-08-26 00:16:00+0000
 image: fortress.png
 categories:
   - Туториалы
